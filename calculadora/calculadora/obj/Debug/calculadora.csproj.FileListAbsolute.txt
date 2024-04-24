@@ -1,0 +1,6 @@
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Joel\OneDrive\Documentos\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
